@@ -1,5 +1,7 @@
 # INE5118 - Probabilidade Estatística e Processos Estocásticos
 
+> "Não é o conhecimento, mas o ato de aprender, não a posse mas o ato de chegar lá, que concede a maior satisfação.” - **Carl Friedrich Gauss**
+
 ## Descrição:
 
 Repositório da Disciplina INE5118 - Probabilidade Estatística e Processos Estocásticos, do Curso de Graduação em [Engenharia Eletrônica](http://geltro.ufsc.br/) e [Engenharia Elétrica](http://cagr.sistemas.ufsc.br/relatorios/curriculoCurso?curso=202&curriculo=20051), da Universidade Federal de Santa Catarina ([UFSC](ufsc.br))
