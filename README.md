@@ -1,4 +1,4 @@
-# INE5118 - Probabilidade Estatística e Processos Estocásticos
+# 🔔INE5118 - Probabilidade Estatística e Processos Estocásticos
 
 > "Não é o conhecimento, mas o ato de aprender, não a posse mas o ato de chegar lá, que concede a maior satisfação.” - **Carl Friedrich Gauss**
 
@@ -27,7 +27,7 @@ $ git clone git@github.com:GSimas/EEL7045.git
 ```
 
 Fique livre para adicionar issues *relevantes*, acrescentar resoluções de exercícios, desenvolvimento de projetos, aperfeiçoamento de conteúdo, entre outros materiais adicionais. Caso utilize material de terceiros, referencie da devida forma, dando os créditos para os autores.
-Leia o arquivo CONTRIBUTING.md para maiores especificações.
+Leia o arquivo [CONTRIBUTING.md](https://github.com/GSimas/INE5118/blob/master/CONTRIBUTING.md) para maiores especificações.
 
 ## Referências:
 
